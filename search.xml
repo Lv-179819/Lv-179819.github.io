@@ -97,7 +97,7 @@
 
 <p>出现下图所示说明部署成功，此时代码已同步至Github。</p>
 <!-- <img src='./.deploy_git/images/deploy.png'> -->
-<p><img src="/3/deploy.png" alt="deploy.png"></p>
+<p><img src="/./3/deploy.png" alt="deploy.png"></p>
 <p>打开网址 <a href="http://lv-179819.github.io/">http://Lv-179819.github.io</a> 就可以看到博客了<br><img src="/2022/06/10/3/linkName.png"></p>
 <h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s 本地启动（查看）内容，hexo server缩写</span><br><span class="line"></span><br><span class="line">hexo g 生成静态页面，hexo generate缩写</span><br><span class="line"></span><br><span class="line">hexo d 部署（上传）到Github，hexo deploy缩写</span><br><span class="line"></span><br><span class="line">hexo clean 清除了你之前生成的东西，可以省略。 慎用！！！当我输入这行命令，发现自己幸幸苦苦截的图没了</span><br><span class="line"></span><br><span class="line">hexo n 新建文章/页面，也可以直接vscode打开,在source\_posts下新建md文件</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
