@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Charles 抓包 安卓|ios</title>
-    <url>/2022/06/09/1/</url>
-    <content><![CDATA[<p>通过 Hexo 部署 Github 搭建自己的博客，真的是踩了不少的坑！搭建本站主要是用于平时知识积累，下面把搭建的过程记录一下。</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>Hello wwwwwwwwwwwwwww</title>
+    <url>/2022/06/09/2/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo new &quot;My New Post&quot;</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
@@ -76,14 +75,19 @@
 <!-- <img src='./.deploy_git/images/deploy.png'> -->
 <p><img src="/photo/deploy.png" alt="deploy.png"></p>
 <p>打开网址 <a href="http://lv-179819.github.io/">http://Lv-179819.github.io</a> 就可以看到博客了<br><img src="/2022/06/10/3/linkName.png"></p>
-
 <h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s 本地启动（查看）内容，hexo server缩写</span><br><span class="line"></span><br><span class="line">hexo g 生成静态页面，hexo generate缩写</span><br><span class="line"></span><br><span class="line">hexo d 部署（上传）到Github，hexo deploy缩写</span><br><span class="line"></span><br><span class="line">hexo clean 清除了你之前生成的东西，可以省略。 慎用！！！当我输入这行命令，发现自己幸幸苦苦截的图没了</span><br><span class="line"></span><br><span class="line">hexo n 新建文章/页面，也可以直接vscode打开,在source\_posts下新建md文件</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
   <entry>
-    <title>Hello wwwwwwwwwwwwwww</title>
-    <url>/2022/06/09/2/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo new &quot;My New Post&quot;</span><br></pre></td></tr></table></figure>
+    <title>photo</title>
+    <url>/2022/06/15/photo/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Charles 抓包 安卓|ios</title>
+    <url>/2022/06/09/1/</url>
+    <content><![CDATA[<p>通过 Hexo 部署 Github 搭建自己的博客，真的是踩了不少的坑！搭建本站主要是用于平时知识积累，下面把搭建的过程记录一下。</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
@@ -96,10 +100,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>photo</title>
-    <url>/2022/06/15/photo/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
